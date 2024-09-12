@@ -1,5 +1,8 @@
 # Movie Analysis With Power BI
 
+You can find the project link below:
+https://app.powerbi.com/links/u2Ne5asC2t?ctid=18d7bde4-d228-4800-86c3-bd79dae9732d&pbi_source=linkShare
+
 **Introduction**
 
 We have developed an interactive Power BI dashboard to analyze the factors influencing movie success. Conducted descriptive statistical analysis of genres, language, duration, director, and budget, revealing the impact on IMDB scores. Provided valuable insights to producers, directors, and investors for decision-making in the film industry.
