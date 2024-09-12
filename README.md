@@ -26,11 +26,8 @@ To run this project, you need to install the following packages:
 
 To use this project, follow these steps:
 
-1. Clone the repository: ```git clone https://github.com/gopiashokan/IMDB-Movie-Analysis-with-PowerBI.git```
-2. Install the required packages: ```pip install -r requirements.txt```
-3. Run the Streamlit app: ```streamlit run app.py```
-4. Access the app in your browser at ```http://localhost:8501```
-
+1. Clone the repository: ```git clone https://github.com/Varshney0007/Movie_Dashboard.git'''
+2. Install the required packages: Power bi
 
 **Features**
 
@@ -68,7 +65,7 @@ Contributions to this project are welcome! If you encounter any issues or have s
 **License**
 
 This project is licensed under the MIT License. Please review the LICENSE file for more details.
-
+![image](https://github.com/user-attachments/assets/29850fab-49cd-4242-9ff2-3ac10cf32b28)
 
 **Contact**
 
